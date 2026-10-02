@@ -50,7 +50,7 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="@dimen/spacing_medium"
             android:backgroundTint="@color/button"
-            android:text="Find Charity Near Me"
+            android:text="Find Charity Near Me" />
     </LinearLayout>
 
 </ScrollView>
